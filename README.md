@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Muhammad Farjad Ali Raza 
 
 <!--
 **themohal/themohal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
