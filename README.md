@@ -27,8 +27,4 @@
 
 </p>
 
-<p align="center">
-⚛️ Quantum Computing
-</p>
-
 ---
