@@ -18,14 +18,21 @@
 
 ---
 
+
 ### ⚙️ Tech Stack
 
-`Python` • `JavaScript` • `C++` • `Git` • `Linux`
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,cpp,git,github,linux,vscode,html,css,nodejs,react&theme=dark" />
+
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=themohal&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=themohal&layout=compact&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=themohal&layout=compact&theme=tokyonight)
