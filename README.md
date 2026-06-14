@@ -30,13 +30,15 @@
 ### 🤖 AI Agent Stack
 
 <p align="left">
-  ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-4CAF50?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge)
-![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google)
-![MCP](https://img.shields.io/badge/MCP-7E15F7?style=for-the-badge)
-![A2A](https://img.shields.io/badge/A2A-FF5722?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n)
-![Vapi](https://img.shields.io/badge/Vapi-000000?style=for-the-badge)
-![LiveKit](https://img.shields.io/badge/LiveKit-FF6B35?style=for-the-badge)
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-4CAF50?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-7E15F7?style=for-the-badge&logo=protocolsio&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge&logo=voipdotms&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiveKit-FF6B35?style=for-the-badge&logo=livekit&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-D4A373?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-34A853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/A2A-FF5722?style=for-the-badge" />
 </p>
