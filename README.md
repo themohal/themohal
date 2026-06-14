@@ -21,7 +21,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,nodejs,react,git,github,linux,vscode,aws,terraform,jenkins,ansible,rust,arduino,docker,kubernetes,solidity,postgres,mysql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,nodejs,react,git,github,linux,vscode,aws,terraform,jenkins,ansible,rust,arduino,docker,kubernetes,solidity,postgres,mysql,redis,langchain,langraph&theme=dark" />
 
 </p>
 
