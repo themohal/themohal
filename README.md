@@ -24,6 +24,7 @@
 <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,nodejs,react,git,github,linux,vscode,aws,terraform,jenkins,ansible,rust,arduino,docker,kubernetes,solidity&theme=dark" />
 
 </p>
+---
 ### 🤖 AI Agent Stack
 
 <p align="center">
@@ -42,4 +43,3 @@
   <img src="https://img.shields.io/badge/Multi--Agent_Systems-34A853?style=for-the-badge" />
   <img src="https://img.shields.io/badge/A2A-FF5722?style=for-the-badge" />
 </p>
----
