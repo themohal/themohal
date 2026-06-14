@@ -24,7 +24,9 @@
 <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,nodejs,react,git,github,linux,vscode,aws,terraform,jenkins,ansible,rust,arduino,docker,kubernetes,solidity&theme=dark" />
 
 </p>
+
 ---
+
 ### 🤖 AI Agent Stack
 
 <p align="center">
