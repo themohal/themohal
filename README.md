@@ -24,13 +24,22 @@
 <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,nodejs,react,git,github,linux,vscode,aws,terraform,jenkins,ansible,rust,arduino,docker,kubernetes,solidity&theme=dark" />
 
 </p>
+### 🤖 AI Agent Stack
+
 <p align="center">
-  <img src="https://cdn.simpleicons.org/n8n" width="48" height="48" alt="n8n"/>
-  <img src="https://cdn.simpleicons.org/langchain" width="48" height="48" alt="LangChain"/>
-  <img src="https://cdn.simpleicons.org/livekit" width="48" height="48" alt="LiveKit"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-4CAF50?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-7E15F7?style=for-the-badge&logo=protocolsio&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge&logo=voipdotms&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiveKit-FF6B35?style=for-the-badge&logo=livekit&logoColor=white" />
 </p>
 
 <p align="center">
-  <b>LangChain • LangGraph • MCP • n8n • Vapi • LiveKit</b>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-D4A373?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-34A853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/A2A-FF5722?style=for-the-badge" />
 </p>
 ---
