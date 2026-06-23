@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7E15F7&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;I'm+Muhammad+Farjad+Ali+Raza;💻+Developer+%7C+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=2000&pause=1000&color=7E15F7&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋;I'm+Muhammad+Farjad+Ali+Raza;💻+Developer+|+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ## 🚀 Developer | 💻 Tech Enthusiast | ⚡ Problem Solver  
